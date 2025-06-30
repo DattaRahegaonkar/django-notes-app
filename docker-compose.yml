@@ -1,6 +1,13 @@
-version : "3.3"
-services :
-  web :
-     image : trainwithshubham/my-note-app:latest
-     ports :
-         - "8000:8000"
+
+version: "3.8"
+
+services:
+  notesapp:
+    image: dattarahegaonkar09/notes-app
+    container_name: notes-app
+    restart: unless-stopped
+
+    ports:
+      - "8000:8000"
+
+    
