@@ -76,5 +76,5 @@ Install Nginx reverse proxy to make this application available
 
 # Output
 
-[Screenshot](https://github.com/DattaRahegaonkar/django-notes-app/blob/2231886c2a7299d4a8a4bdd8d8b20b5ddfa1b9c5/Screenshot%202025-06-30%20173614.png)
-[Screenshot](https://github.com/DattaRahegaonkar/django-notes-app/blob/2231886c2a7299d4a8a4bdd8d8b20b5ddfa1b9c5/Screenshot%202025-06-30%20173700.png)
+![Screenshot](https://github.com/DattaRahegaonkar/django-notes-app/blob/2231886c2a7299d4a8a4bdd8d8b20b5ddfa1b9c5/Screenshot%202025-06-30%20173614.png)
+![Screenshot](https://github.com/DattaRahegaonkar/django-notes-app/blob/2231886c2a7299d4a8a4bdd8d8b20b5ddfa1b9c5/Screenshot%202025-06-30%20173700.png)
