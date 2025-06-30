@@ -1,6 +1,6 @@
 # Acknowledgements
 
-Originally forked from LondheShubham153/django-notes-app.
+Originally forked from [LondheShubham153/django-notes-app](https://github.com/LondheShubham153/django-notes-app)
 
 Huge thanks to Shubham Londhe bhiya for building the app and open‑sourcing.
 
