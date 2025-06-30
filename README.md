@@ -56,7 +56,8 @@ docker build -t <your-dockerhub-username>/notes-app:latest .
 docker push <your-dockerhub-username>/notes-app:latest
 ```
 
-3. Create Kubernetes deployment and service YAMLs for notes-app
+3. Create Kubernetes cluster using kind, miniqube, etc
+4. create namespace, deployment and service YAMLs for notes-app
 
 4. Apply the manifests
 ```
